@@ -20,4 +20,4 @@ In the Search Terms box, allow the user to search by course ID, so searching ECE
 
 2)Non-Functional Requirement Improvement:
 
-Usability needs to be improved, hard to read and extract data, could be done by improving the overall UI and adding better diagrams and tables.
+Usability needs to be improved, hard to read and extract data, could be done by improving the overall UI and adding better diagrams and tables. Furthermore, there should be a better indication that the user's button clicks has be actually registered. 
